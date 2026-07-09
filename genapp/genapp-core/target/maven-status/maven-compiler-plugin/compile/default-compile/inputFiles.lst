@@ -1,0 +1,10 @@
+/workspace/genapp/genapp-core/src/main/java/com/genapp/core/model/Layar.java
+/workspace/genapp/genapp-core/src/main/java/com/genapp/core/service/NineRouterService.java
+/workspace/genapp/genapp-core/src/main/java/com/genapp/core/model/Komponen.java
+/workspace/genapp/genapp-core/src/main/java/com/genapp/core/model/Aplikasi.java
+/workspace/genapp/genapp-core/src/main/java/com/genapp/core/service/BuildOrchestrator.java
+/workspace/genapp/genapp-core/src/main/java/com/genapp/core/generator/ComposeCodeGenerator.java
+/workspace/genapp/genapp-core/src/main/java/com/genapp/core/model/DatabaseConfig.java
+/workspace/genapp/genapp-core/src/main/java/com/genapp/core/generator/CodeGenerator.java
+/workspace/genapp/genapp-core/src/main/java/com/genapp/core/generator/SwiftUICodeGenerator.java
+/workspace/genapp/genapp-core/src/main/java/com/genapp/core/model/MonetizationConfig.java
