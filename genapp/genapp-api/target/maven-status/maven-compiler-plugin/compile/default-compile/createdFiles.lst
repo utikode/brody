@@ -1,0 +1,5 @@
+com/genapp/api/controller/GenAppController.class
+com/genapp/api/controller/GenAppController$BuildStatus.class
+com/genapp/api/GenAppApplication.class
+com/genapp/api/controller/GenAppController$ChatRequest.class
+com/genapp/api/controller/GenAppController$BuildRequest.class

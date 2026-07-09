@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: genapp-api
+
+logging:
+  level:
+    com.genapp: DEBUG
+    org.springframework.web: INFO
+
+genapp:
+  ai:
+    endpoint: https://9router.decolua.com/v1/chat/completions
+    model: gpt-4o-mini
